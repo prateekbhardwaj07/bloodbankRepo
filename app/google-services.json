@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71615885633",
+    "firebase_url": "https://guidemo3-bd258.firebaseio.com",
+    "project_id": "guidemo3-bd258",
+    "storage_bucket": "guidemo3-bd258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71615885633:android:85f57b3c98619e3a",
+        "android_client_info": {
+          "package_name": "example.com.guidemo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71615885633-9tkiffmcqsrf2k8au8t1slhqr2v0h3l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.guidemo3",
+            "certificate_hash": "3a69081283ebfb640326c3c91925b766f3aaf35b"
+          }
+        },
+        {
+          "client_id": "71615885633-4ogv6d6tga6guu5te43i246h1bpsggqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnU8t07KuuqgI1GyHYwHP4mTJYdTvXTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71615885633-4ogv6d6tga6guu5te43i246h1bpsggqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

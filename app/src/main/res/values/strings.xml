@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string-array name="spinnerBlood">
+        <item name="default">Choose Blood Group</item>
+        <item name="A">A+</item>
+        <item name="A">A-</item>
+        <item name="B">B+</item>
+        <item name="B">B-</item>
+        <item name="O">O+</item>
+        <item name="O">O-</item>
+        <item name="AB">AB+</item>
+        <item name="AB">AB-</item>
+    </string-array>
+    <string-array name="spinnerCountry">
+        <item>India</item>
+        <item>USA</item>
+    </string-array>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bloodQuote">Blood is the most precious entity for medical patients.
+    kindly donate some blood and help people.</string>
+
+
+    <string name="Instruction1">Emergency Services are provided:</string>
+    <string name="Instruction2">Search and Find Path to  Nearby Hospitals.</string>
+    <string name="Instruction3">Search and Find Path to  Nearby Blood Banks.</string>
+    <string name="Instruction4">
+    Search and Find Path to Saved Places</string>
+
+
+</resources>

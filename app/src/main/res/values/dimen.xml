@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tableMargin">8dp</dimen>
+    <dimen name="textSize">18dp</dimen>
+    <dimen name="margintop">30dp</dimen>
+</resources>
